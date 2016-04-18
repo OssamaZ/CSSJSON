@@ -296,4 +296,7 @@ var CSSJSON = new function () {
 
 };
 
-module.exports = CSSJSON
+if (typeof module !== "undefined" && module !== null)
+{
+ module.exports = CSSJSON
+}
