@@ -1,0 +1,23 @@
+{
+  "name": "cssjson",
+  "version": "2.1.0",
+  "description": "CSS-JSON Converter for JavaScript",
+  "main": "cssjson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhingston/CSSJSON.git"
+  },
+  "keywords": [
+    "css",
+    "json"
+  ],
+  "author": "Aram Kocharyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhingston/CSSJSON/issues"
+  },
+  "homepage": "https://github.com/mhingston/CSSJSON#readme"
+}
